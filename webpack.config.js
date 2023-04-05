@@ -9,7 +9,7 @@ module.exports = {
   entry: {
     index: './src/index.js'
   },
-  mode: 'production',
+  mode: 'production', 
   module: {
     rules: [{
     test: /\.css$/,
